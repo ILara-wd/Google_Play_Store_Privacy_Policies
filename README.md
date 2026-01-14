@@ -38,7 +38,7 @@ Las políticas de privacidad incluidas en este repositorio aplican a las siguien
 
 ## 📂 Estructura del repositorio
 
-```text
+```bash
 .
 ├── README.md
 ├── Política_Privacidad_Unificada.md
